@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Phase3SportyShoes-main</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/static/Images/Air-Jordan-1.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Deviare User/Pictures/Air-Jordan-1.jpg</location>
+		</link>
+		<link>
+			<name>src/main/resources/static/Images/Sporty.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Deviare User/Pictures/Sporty.jpg</location>
+		</link>
+		<link>
+			<name>src/main/resources/static/Images/shoe1.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Deviare User/Pictures/shoe1.jpg</location>
+		</link>
+		<link>
+			<name>src/main/resources/static/Images/shoe2.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Deviare User/Pictures/shoe2.jpg</location>
+		</link>
+		<link>
+			<name>src/main/resources/static/Images/shoes3.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Deviare User/Pictures/shoes3.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
